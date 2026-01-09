@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "K2",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-01-09T11:19:48.957280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "K2",
+      "artist": "Beginner",
+      "has_synced": false,
+      "path": "select/01_K2_Beginner.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Messaggio dal k2",
+      "artist": "Enrico Ruggeri",
+      "has_synced": true,
+      "path": "select/02_Messaggio_dal_k2_Enrico_Ruggeri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "K2",
+      "artist": "Elbow",
+      "has_synced": true,
+      "path": "select/03_K2_Elbow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "K2",
+      "artist": "Yasmine Hamdan",
+      "has_synced": true,
+      "path": "select/04_K2_Yasmine_Hamdan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "K2",
+      "artist": "Hamdan, Yasmine",
+      "has_synced": true,
+      "path": "select/05_K2_Hamdan,_Yasmine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "k2 with a little help from my friends",
+      "artist": "the beatles",
+      "has_synced": true,
+      "path": "select/06_k2_with_a_little_help_from_my_friends_the_beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "K2",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_K2_KEIJU.txt"
+    }
+  ]
+}
